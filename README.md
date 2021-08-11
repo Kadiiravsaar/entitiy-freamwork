@@ -1,0 +1,2 @@
+# entitiy-freamwork
+veri eklemek
